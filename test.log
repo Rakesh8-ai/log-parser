@@ -1,0 +1,5 @@
+2024-12-18 14:55:12 INFO User login from IP 192.168.1.1
+2024-12-18 14:55:13 DEBUG Something happened
+2024-12-18 14:55:14 ERROR IPv6 Connection failed from 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+192.168.1.2 User accessed the system
+2024-12-18 14:55:15 INFO Another log entry with timestamp 14:55:15
